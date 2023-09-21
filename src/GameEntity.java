@@ -1,5 +1,7 @@
 public class GameEntity {
+
     private int Health;
+
     private int Damage;
 
     public int getHealth() {

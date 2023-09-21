@@ -1,7 +1,6 @@
 public class Skeleton extends Boss {
     private int arrows;
 
-
     public Skeleton(int Health, int Damage, int arrows) {
         super(Health, Damage);
         this.arrows = arrows;
